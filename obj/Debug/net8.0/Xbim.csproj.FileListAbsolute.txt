@@ -34,3 +34,4 @@ C:\Users\user\Desktop\Xbim\obj\Debug\net8.0\refint\Xbim.dll
 C:\Users\user\Desktop\Xbim\obj\Debug\net8.0\Xbim.pdb
 C:\Users\user\Desktop\Xbim\obj\Debug\net8.0\Xbim.genruntimeconfig.cache
 C:\Users\user\Desktop\Xbim\obj\Debug\net8.0\ref\Xbim.dll
+C:\Users\user\Desktop\Xbim\obj\Debug\net8.0\Xbim.sourcelink.json

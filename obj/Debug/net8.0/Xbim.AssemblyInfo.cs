@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Xbim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+284108647ed4d2e285f2e6a4d722f35c0612ffda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Xbim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Xbim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
