@@ -1,1 +1,1 @@
-!["model"]("model.png")
+!["model"]("./model.png")
